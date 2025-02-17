@@ -1,5 +1,7 @@
 # LLM Workstation
 
+![LLM Workstation Homepage](images/llm-workstation.png)
+
 - This repo was inspired by Mckay Wrigley's AI Workflow. See his [template](https://github.com/mckaywrigley/mckays-app-template) and [o1 parser](https://github.com/mckaywrigley/o1-xml-parser). Much of this code originated from him.
 
 - This will allow you to put together massive prompts with codebases appended and automatically copy everything to your clipboard.
